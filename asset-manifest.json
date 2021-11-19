@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://thiagodasilveirasouza.github.io/csb-562xd/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://thiagodasilveirasouza.github.io/csb-562xd/static/js/main.c7524cbb.chunk.js",
+    "main.js.map": "https://thiagodasilveirasouza.github.io/csb-562xd/static/js/main.c7524cbb.chunk.js.map",
+    "runtime-main.js": "https://thiagodasilveirasouza.github.io/csb-562xd/static/js/runtime-main.915fa4f6.js",
+    "runtime-main.js.map": "https://thiagodasilveirasouza.github.io/csb-562xd/static/js/runtime-main.915fa4f6.js.map",
+    "static/js/2.2fd7dc52.chunk.js": "https://thiagodasilveirasouza.github.io/csb-562xd/static/js/2.2fd7dc52.chunk.js",
+    "static/js/2.2fd7dc52.chunk.js.map": "https://thiagodasilveirasouza.github.io/csb-562xd/static/js/2.2fd7dc52.chunk.js.map",
+    "index.html": "https://thiagodasilveirasouza.github.io/csb-562xd/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://thiagodasilveirasouza.github.io/csb-562xd/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2fd7dc52.chunk.js.LICENSE.txt": "https://thiagodasilveirasouza.github.io/csb-562xd/static/js/2.2fd7dc52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.915fa4f6.js",
+    "static/js/2.2fd7dc52.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c7524cbb.chunk.js"
+  ]
+}
